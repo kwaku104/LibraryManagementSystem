@@ -2,7 +2,6 @@
 __pycache__/
 *.pyc
 venv
-testGui.py
 temp.txt
 book files
 editTxt.py
