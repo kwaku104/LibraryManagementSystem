@@ -1,0 +1,8 @@
+.DS_Store
+__pycache__/
+*.pyc
+venv
+testGui.py
+temp.txt
+book files
+editTxt.py
